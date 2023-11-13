@@ -1,7 +1,8 @@
-{
-  "name": "[Generator] OrePlus",
-  "author": "MostlyAvery",
-  "description": "A mod used for tests. Adds new[accent] ores[orange] and[] machines.[]
-New update[orange] adds generators![accent] ",
-  "version": 1.0
-}
+name: "not-really-a-mod"
+displayName: "Don't worry about it"
+author: "MostlyAvery07"
+description: "HUuuuuuuh, not sure what's going on"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
